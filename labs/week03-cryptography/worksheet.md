@@ -276,7 +276,7 @@ Protocol: TLSv1.3
   byte-identical for the whole cohort *by design*, so the stamp is the only thing that makes
   the shot yours. Generic or borrowed evidence is not accepted.
 - **Personalized flag (if this lab issues one):** FLAG{ecb_f12314a8}
-- **Commit Link:** https://github.com/SAISENGMAIN6631503085/software-security/commit/d252e3bd4d76e5cbbf18d2db7d504232bb445cb0
+- **Commit Link:** https://github.com/SAISENGMAIN6631503085/software-security/commit/5d3d0a927aeb889df9ee62846cb45c08365a1e2f
   *Flags are unique per student — submitting another student's flag is a violation. How to submit: **learn.zcr.ai/submit** (full guide: `SUBMISSION.md` in the repo root).*
 - **Explain in your own words** *(graded on your reasoning, not copied text):*
   1. What did you do, and **why did the vulnerability work**?
