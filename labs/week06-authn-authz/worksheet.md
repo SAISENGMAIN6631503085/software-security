@@ -263,8 +263,8 @@ jwt-forge
   byte-identical for the whole cohort *by design*, so the stamp is the only thing that makes
   the shot yours. Generic or borrowed evidence is not accepted.
 - **Personalized flag (if this lab issues one):** `FLAG{idor_demo}` / `FLAG{jwt_demo}`
-- **Commit Link:** https://github.com/SAISENGMAIN6631503085/software-security/commit/PENDING_COMMIT_HASH
-- **Pull Request:** https://github.com/nutthakorn7/software-security/pull/PENDING_PR
+- **Commit Link:** https://github.com/SAISENGMAIN6631503085/software-security/commit/452e0b82031e0d7280f6177ca116bd9df2689de2
+- **Pull Request:** https://github.com/nutthakorn7/software-security/pull/90
   *Flags are unique per student — submitting another student's flag is a violation. How to submit: **learn.zcr.ai/submit** (full guide: `SUBMISSION.md` in the repo root).*
 - **Explain in your own words** *(graded on your reasoning, not copied text):*
   1. What did you do, and **why did the vulnerability work**?
