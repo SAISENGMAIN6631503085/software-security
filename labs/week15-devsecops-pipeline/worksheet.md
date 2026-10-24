@@ -14,7 +14,7 @@
 |------|-----------|------|-------|
 | Sai Seng Main | 6631503085 | 2026-10-24 | Individual |
 
-**Pull Request:** [https://github.com/nutthakorn7/software-security/pull/PENDING](https://github.com/nutthakorn7/software-security/pull/PENDING)
+**Pull Request:** [https://github.com/nutthakorn7/software-security/pull/158](https://github.com/nutthakorn7/software-security/pull/158)
 
 > **AI Disclosure:** Claude 3.5 Sonnet / Antigravity pair programming assistant was utilized for code analysis, verification scripting, and documentation review.
 
