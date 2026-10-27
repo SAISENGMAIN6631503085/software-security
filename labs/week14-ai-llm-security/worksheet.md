@@ -286,7 +286,7 @@ docker compose up -d          # INSECURE on :8082, GUARDED on :8083
   cropped window carries nothing that identifies you, and the lab's own output is
   byte-identical for the whole cohort *by design*, so the stamp is the only thing that makes
   the shot yours. Generic or borrowed evidence is not accepted.
-- **Personalized flag (if this lab issues one):** `FLAG{pr0mpt_1nj3ction_l34ks_s3cr3ts}`
+- **Personalized flag (if this lab issues one):** `FLAG{promptinj_68c8200052b940a1}` (Graded CTF instance) / `FLAG{pr0mpt_1nj3ction_l34ks_s3cr3ts}` (Local practice)
   *Flags are unique per student — submitting another student's flag is a violation. How to submit: **learn.zcr.ai/submit** (full guide: [SUBMISSION.md](../../SUBMISSION.md)).*
 - **Explain in your own words** *(graded on your reasoning, not copied text):*
   1. What did you do, and **why did the vulnerability work**?
