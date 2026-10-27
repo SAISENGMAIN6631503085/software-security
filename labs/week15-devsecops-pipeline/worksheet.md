@@ -265,7 +265,7 @@ docker compose up -d       # INSECURE on :8090, SECURE on :8091
   cropped window carries nothing that identifies you, and the lab's own output is
   byte-identical for the whole cohort *by design*, so the stamp is the only thing that makes
   the shot yours. Generic or borrowed evidence is not accepted.
-- **Personalized flag (if this lab issues one):** `FLAG{devsecops_fail_open_leaks_admin}`
+- **Personalized flag (if this lab issues one):** `FLAG{devsecops_cceead3e61672f05}` (Graded CTF instance) / `FLAG{devsecops_fail_open_leaks_admin}` (Local practice)
   *Flags are unique per student — submitting another student's flag is a violation. How to submit: **learn.zcr.ai/submit** (full guide: [SUBMISSION.md](../../SUBMISSION.md)).*
 - **Explain in your own words** *(graded on your reasoning, not copied text):*
   1. What did you do, and **why did the vulnerability work**?
